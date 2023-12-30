@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1703915963 source:c:\ого\школа\inf\archiv\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string>
+	<algorithm>
+
